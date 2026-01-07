@@ -1,27 +1,27 @@
 <div align="center">
 
-<!-- HEADER: HARMONIZED GREEN -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39D353&height=250&section=header&text=COCOCIP&fontSize=80&animation=twinkling&fontAlignY=35&desc=CREATIVE%20DEVELOPER%20%E2%80%A2%20BUG%20SLAYER&descAlignY=60&descSize=20&fontColor=ffffff" width="100%"/>
+<!-- HEADER: AESTHETIC CYBER GREEN -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=250&section=header&text=COCOCIP&fontSize=80&animation=twinkling&fontAlignY=35&desc=CREATIVE%20DEVELOPER%20%E2%80%A2%20BUG%20SLAYER&descAlignY=60&descSize=20&fontColor=ffffff" width="100%"/>
 
 <br/>
 
-<!-- ANIMATED TYPING: HARMONIZED GREEN -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Code.+Coffee.+Repeat.;%F0%9F%9A%80+Building+Beyond+Limits;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Slaying+Bugs+Since+Day+1;%F0%9F%8D%B8+Gen-Z+Vibe+Check%3A+Passed" alt="Typing SVG" />
+<!-- ANIMATED TYPING: AESTHETIC GREEN -->
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Code.+Coffee.+Repeat.;%F0%9F%9A%80+Building+Beyond+Limits;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Slaying+Bugs+Since+Day+1;%F0%9F%8D%B8+Gen-Z+Vibe+Check%3A+Passed" alt="Typing SVG" />
 
 <br/>
 
 <!-- SOCIAL BADGES: UNIFIED THEME -->
 <p align="center">
-<img src="https://img.shields.io/github/followers/Cococip?label=BESTIES&style=for-the-badge&color=39D353&logo=github" />
-<img src="https://komarev.com/ghpvc/?username=Cococip&label=VIBE%20CHECK&color=39D353&style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-SLAYING-39D353?style=for-the-badge&logo=heart" />
+<img src="https://img.shields.io/github/followers/Cococip?label=BESTIES&style=for-the-badge&color=00FF9C&logo=github&logoColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=Cococip&label=VIBE%20CHECK&color=00FF9C&style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-SLAYING-00FF9C?style=for-the-badge&logo=heart&logoColor=000000" />
 </p>
 
 ---
 
 <br/>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> <font color="#39D353">STUFF I USE TO CREATE</font></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> <font color="#00FF9C">STUFF I USE TO CREATE</font></h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,23 +35,23 @@
 
 <br/>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> <font color="#39D353">MY DEV STATS</font></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> <font color="#00FF9C">MY DEV STATS</font></h3>
 
 <table align="center">
   <tr>
     <td align="center">
-      <b><font color="#39D353">GITHUB STATS</font></b><br/>
+      <b><font color="#00FF9C">GITHUB STATS</font></b><br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=github_dark" height="210" />
     </td>
     <td align="center">
-      <b><font color="#39D353">REPO STATS</font></b><br/>
+      <b><font color="#00FF9C">REPO STATS</font></b><br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=github_dark" height="210" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cococip&theme=vue&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cococip&theme=vue-dark&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <br/>
@@ -60,7 +60,7 @@
 
 <br/>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> <font color="#39D353">THE COMMIT SNAKE</font></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> <font color="#00FF9C">THE COMMIT SNAKE</font></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake-dark.svg">
@@ -75,7 +75,7 @@
 <br/>
 
 <!-- FOOTER: MATCHING HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39D353&height=100&section=footer&text=STAY%20AESTHETIC&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=100&section=footer&text=STAY%20AESTHETIC&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <p align="center">
   <b>Built with ✨ by Cococip</b>
