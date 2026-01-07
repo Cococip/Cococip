@@ -1,75 +1,100 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="50" /> **COCOCIP** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="50" />
+<!-- HEADER AREA -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=COCOCIP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=CREATIVE%20CORE%20%E2%80%A2%20FULLSTACK%20WIZARD&descAlignY=62&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%E2%9C%A8+CREATIVE+DEVELOPER+%E2%9C%A8;%F0%9F%9A%80+MODERN+WEB+WIZARD+%F0%9F%9A%80;%F0%9F%8E%A8+PIXEL+PERFECT+SLAYER+%F0%9F%8E%A8" alt="Typing SVG" />
+<br/>
 
----
+<!-- DYNAMIC TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&pause=1000&color=FF3D71&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Transforming+Coffee+into+Code;%F0%9F%9A%80+Building+Scalable+Digital+Dreams;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Slaying+Bugs+in+Dark+Mode;%F0%9F%8C%90+Web3+%26+Next-Gen+Innovator" alt="Typing SVG" />
 
+<br/>
+
+<!-- VIBE CHECK BADGES -->
+[![GitHub Followers](https://img.shields.io/github/followers/Cococip?label=FOLLOWERS&style=for-the-badge&color=FF3D71&logo=github)](https://github.com/Cococip)
+[![Views](https://komarev.com/ghpvc/?username=Cococip&label=PROFILE%20VIBES&color=41EAD4&style=for-the-badge)](https://github.com/Cococip)
+[![Stars](https://img.shields.io/github/stars/Cococip?label=STARS&style=for-the-badge&color=F8D800)](https://github.com/Cococip)
+
+<br/>
+<br/>
+
+<!-- ABOUT SECTION -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="100" />
+      <br/>
+      <b>"Code is poetry in motion."</b>
+      <br/>
+      <i>Obsessed with pixels and performance.</i>
+    </td>
+    <td width="50%">
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="25" /> DATABASE</h3>
+      <ul>
+        <li><b>Main Quest:</b> Architecting Digital Futures</li>
+        <li><b>Current Buff:</b> Mastering Three.js & AI</li>
+        <li><b>Vibe:</b> 100% Focused & Aesthetic</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- TECH STACK -->
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> TECH REPERTOIRE</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cococip&label=VIBES%20CHECK&color=F75C7E&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Cococip?label=FOLLOWERS&style=for-the-badge&color=blueviolet" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,framer,nodejs,laravel,supabase,postgres,docker,figma" />
+  </a>
 </p>
 
----
+<br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="30" /> **THE MANIFESTO**
-</div>
+<!-- TROPHIES (THE COOL PART) -->
+<img src="https://github-profile-trophy.vercel.app/?username=Cococip&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%"/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>🔭 EXPLORING</b><br>Next.js 14 & AI</td>
-      <td align="center"><b>🎀 AESTHETIC</b><br>Cyber & Pastels</td>
-      <td align="center"><b>⚡ STATUS</b><br>Slaying Bugs 💅</td>
-    </tr>
-  </table>
-</div>
+<br/>
 
----
+<!-- GITHUB STATS GRID -->
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="30" /> STATS DASHBOARD</h3>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Cococip&show_icons=true&theme=radical&hide_border=true&title_color=FF3D71&icon_color=FF3D71&text_color=FFFFFF&bg_color=00000000" height="200" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cococip&layout=compact&theme=radical&hide_border=true&title_color=41EAD4&icon_color=41EAD4&text_color=FFFFFF&bg_color=00000000" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cococip&theme=radical&hide_border=true&stroke=FF3D71&background=00000000&ring=FF3D71&fire=FF3D71&currStreakLabel=FF3D71" width="100%" />
+    </td>
+  </tr>
+</table>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Camera.png" width="30" /> **TECH REPERTOIRE**
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,php,laravel,mysql,mongodb,figma,threejs,framer" />
-</p>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Man%20Lifting%20Weights.png" width="30" /> **GRIND STATS**
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cococip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cococip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cococip&theme=tokyonight&hide_border=true&stroke=F75C7E&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" />
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" width="30" /> **COMMIT SNAKE**
-
+<!-- SNAKE ANIMATION -->
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> CONTRIBUTION SNAKE</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
----
+<br/>
+<br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Light.png" width="30" /> **CURRENTLY VIBING TO**
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 
-[![Spotify](https://novatorem-spotify-status.vercel.app/api/spotify-status?id=314z2k6f2j7n3o5q4r6s7t8u9v0w&theme=dark)](https://open.spotify.com/user/314z2k6f2j7n3o5q4r6s7t8u9v0w)
+<p align="center">
+  <b>Built with ✨ by Cococip</b>
+  <br/>
+  <i>"Stay aesthetic, stay bold."</i>
+</p>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-**Stay foolish. Stay aesthetic.** ✨
 </div>
