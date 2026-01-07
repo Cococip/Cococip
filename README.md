@@ -31,14 +31,14 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> **MY DEV STATS**
 
-<!-- STATS SECTION: FULLY WORKING -->
+<!-- STATS SECTION: ENHANCED VISIBILITY -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=radical" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=radical" alt="Repo Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cococip&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cococip&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
