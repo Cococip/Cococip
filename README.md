@@ -23,18 +23,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,framer,nodejs,laravel,supabase,postgres,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,php,framer,nodejs,laravel,supabase,postgres,docker,figma" />
   </a>
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> **MY DEV STATS (NO CAP)**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> **MY DEV STATS**
 
-<!-- STATS SECTION: STABLE RENDER -->
+<!-- STATS SECTION: FIXED & STABLE -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cococip&show_icons=true&theme=radical" alt="Main Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cococip&layout=compact&theme=radical" alt="Top Langs" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Cococip&theme=radical" alt="Top Langs" height="180" />
 </p>
 
 <p align="center">
