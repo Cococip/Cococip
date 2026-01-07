@@ -25,8 +25,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Updated to match actual repo tech: PHP, Python, Java, Rust, Nextjs, Tailwind, JS, MySQL, HTML, CSS -->
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,java,rust,nextjs,tailwind,js,mysql,html,css&theme=dark" />
+    <!-- Updated to match actual repo tech: PHP, Laravel, Python, Java, Rust, Next.js, Tailwind, MySQL, Git, VSCode -->
+    <img src="https://skillicons.dev/icons?i=php,laravel,py,java,rust,nextjs,tailwind,mysql,git,vscode&theme=dark" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <br/>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> <font color="#F75C7E">MY DEV STATS (NO CAP)</font></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> <font color="#F75C7E">MY DEV STATS</font></h3>
 
 <p align="center">
   <b><font color="#F75C7E">GITHUB STATS</font></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#F75C7E">REPO STATS</font></b>
