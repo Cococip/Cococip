@@ -37,12 +37,18 @@
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> <font color="#39D353">MY DEV STATS</font></h3>
 
-<p align="center">
-  <b><font color="#39D353">GITHUB STATS</font></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#39D353">REPO STATS</font></b>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=github_dark" alt="Repo Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <b><font color="#39D353">GITHUB STATS</font></b><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=github_dark" height="210" />
+    </td>
+    <td align="center">
+      <b><font color="#39D353">REPO STATS</font></b><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=github_dark" height="210" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cococip&theme=vue&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
