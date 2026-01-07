@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- HEADER: CUSTOM COLOR GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2596be,567c34&height=250&section=header&text=COCOCIP&fontSize=80&animation=twinkling&fontAlignY=35&desc=CREATIVE%20DEVELOPER%20%E2%80%A2%20BUG%20SLAYER&descAlignY=60&descSize=20&fontColor=ffffff" width="100%"/>
+<!-- HEADER: SOLID CUSTOM GREEN (#567c34) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=567c34&height=250&section=header&text=COCOCIP&fontSize=80&animation=twinkling&fontAlignY=35&desc=CREATIVE%20DEVELOPER%20%E2%80%A2%20BUG%20SLAYER&descAlignY=60&descSize=20&fontColor=ffffff" width="100%"/>
 
 <br/>
 
-<!-- ANIMATED TYPING: CUSTOM COLOR -->
+<!-- ANIMATED TYPING: USING BOTH COLORS -->
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&pause=1000&color=2596be&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Code.+Coffee.+Repeat.;%F0%9F%9A%80+Building+Beyond+Limits;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Slaying+Bugs+Since+Day+1;%F0%9F%8D%B8+Gen-Z+Vibe+Check%3A+Passed" alt="Typing SVG" />
 
 <br/>
@@ -60,7 +60,7 @@
 
 <br/>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> <font color="#2596be">THE COMMIT SNAKE</font></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> <font color="#567c34">THE COMMIT SNAKE</font></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake-dark.svg">
@@ -74,8 +74,8 @@
 
 <br/>
 
-<!-- FOOTER: MATCHING CUSTOM GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,567c34,2596be&height=100&section=footer&text=STAY%20AESTHETIC&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<!-- FOOTER: SOLID CUSTOM GREEN (#567c34) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=567c34&height=100&section=footer&text=STAY%20AESTHETIC&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <p align="center">
   <b>Built with ✨ by Cococip</b>
