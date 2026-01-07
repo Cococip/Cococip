@@ -79,10 +79,10 @@
 <br/>
 
 <!-- FOOTER: MATCHING GREEN (#567c34) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=567c34&height=100&section=footer&text=STAY%20AESTHETIC&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=567c34&height=100&section=footer&text=STAY%20COOLLL&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <p align="center">
-  <b>Built with ✨ by Cococip</b>
+  <b>HIDUP JOKO.....</b>
 </p>
 
 </div>
