@@ -59,5 +59,5 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Stay%20Bold.%20Stay%20Aesthetic.&fontSize=30&animation=fadeIn" width="100%"/>
 </p>
 
-**Built with ✨ by Cococip**
+**Built with by Cococip**
 </div>
