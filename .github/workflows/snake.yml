@@ -16,17 +16,18 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: generate pacman-contribution-graph.svg (light)
+      - name: generate pacman-contribution-graph.svg (Light - Green Theme)
         uses: abozanona/pacman-contribution-graph@fc4d0fd
         with:
           github_user_name: ${{ github.repository_owner }}
+          theme: gitlab
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: generate pacman-contribution-graph.svg (dark)
+      - name: generate pacman-contribution-graph.svg (Dark - Green Theme)
         uses: abozanona/pacman-contribution-graph@fc4d0fd
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: github-dark
+          theme: gitlab-dark
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
           
       - name: push animation to the output branch
