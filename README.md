@@ -21,7 +21,7 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> **STUFF I USE TO CREATE**
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> <font color="#F75C7E">STUFF I USE TO CREATE</font></h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,9 +36,13 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> **MY DEV STATS (NO CAP)**
+<br/>
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> <font color="#F75C7E">MY DEV STATS (NO CAP)</font></h3>
 
 <p align="center">
+  <b><font color="#F75C7E">GITHUB STATS</font></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#F75C7E">REPO STATS</font></b>
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=radical" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=radical" alt="Repo Stats" />
 </p>
@@ -53,7 +57,7 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> **THE COMMIT SNAKE**
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> <font color="#F75C7E">THE COMMIT SNAKE</font></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake-dark.svg">
