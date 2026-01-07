@@ -68,7 +68,7 @@
 <br/>
 
 <!-- FOOTER: MATCHING HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer&text=STAY%20AESTHETIC&fontSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer&text=STAY%20AESTHETIC&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <p align="center">
   <b>Built with ✨ by Cococip</b>
