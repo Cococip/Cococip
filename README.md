@@ -1,52 +1,52 @@
-# 👋 Halo, Saya Cococip!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> Yoo! I'm Cococip
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Life-long+Learner;Tech+Enthusiast;Creative+Coder" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cococip&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Cococip?label=Followers&style=social" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Code+%2B+Coffee+%3D+Magic+%E2%9C%A8;Building+the+future...;Gen-Z+Developer+%F0%9F%91%BE;Slaying+bugs+all+day+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Tentang Saya
-Saya adalah seorang **Fullstack Developer** yang bersemangat untuk membangun solusi teknologi yang inovatif dan berdampak. Saya senang mengeksplorasi teknologi baru dan berkontribusi pada proyek open-source.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="30" /> About Me (The Vibe)
+```javascript
+const Cococip = {
+  pronouns: "He / Him",
+  role: "Fullstack Wizard 🪄",
+  passion: ["Clean Code", "Pixel Perfect UI", "Iced Latte 🥤"],
+  status: "Slaying the web dev game 💅"
+};
+```
 
-- 🔭 Sedang mengerjakan: **[Nama Proyek Utama]**
-- 🌱 Saat ini sedang mempelajari: **Next.js 14, TypeScript & AI Integration**
-- 👯 Saya terbuka untuk kolaborasi: **Proyek Open Source & Startup Tech**
-- 💬 Tanya saya tentang: **React, Laravel, atau UI/UX Design**
-- ⚡ Fun fact: **Saya suka ngopi sambil ngoding di malam hari! ☕**
+- 🪐 Currently exploring: **The Multiverse of React & AI**
+- 🎀 Aesthetic: **Dark Mode & Neon Glow**
+- ☁️ Motto: **"Don't just code, make it pop!"**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> My Go-To Tools (Stacked)
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,mysql,mongodb,git,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nodejs,laravel,supabase,prisma,figma,framer,threejs" />
   </a>
 </p>
 
 ---
 
-### 📊 Statistik GitHub (Interaktif)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="30" /> Gaming My Way Through Work
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cococip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cococip&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cococip&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cococip&layout=compact&langs_count=7&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cococip&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cococip&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🕹️ Kontribusi Saya (Snake Animation)
-<!-- Ini adalah elemen interaktif yang populer. Kamu perlu setup GitHub Action untuk merender ini. -->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> Contribution Snake (Catch 'em all!)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg">
@@ -56,5 +56,7 @@ Saya adalah seorang **Fullstack Developer** yang bersemangat untuk membangun sol
 ---
 
 <p align="center">
-  <i>Bintang-bintang tidak akan bersinar tanpa kegelapan. Teruslah berkarya! 🚀</i>
+  <b>Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Arrow.png" alt="Heart" width="20" /> by Cococip</b>
+  <br>
+  <i>"Stay hungry, stay foolish, stay aesthetic."</i> ✨
 </p>
