@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER: HARMONIZED RADICAL PINK -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=250&section=header&text=COCOCIP&fontSize=80&animation=twinkling&fontAlignY=35&desc=CREATIVE%20DEVELOPER%20%E2%80%A2%20BUG%20SLAYER&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=250&section=header&text=COCOCIP&fontSize=80&animation=twinkling&fontAlignY=35&desc=CREATIVE%20DEVELOPER%20%E2%80%A2%20BUG%20SLAYER&descAlignY=60&descSize=20&fontColor=ffffff" width="100%"/>
 
 <br/>
 
