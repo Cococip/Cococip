@@ -16,21 +16,18 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: generate pacman-contribution-graph.svg (light)
         uses: abozanona/pacman-contribution-graph@fc4d0fd
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Customizing colors to match Majestic theme
-          # Pacman color matches our teal (#2596be)
-          # Dots colors match our green (#567c34)
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: generate dark mode version
-        uses: Platane/snk/svg-only@v3
+      - name: generate pacman-contribution-graph.svg (dark)
+        uses: abozanona/pacman-contribution-graph@fc4d0fd
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#2596be&color_dots=#161b22,#2d4a1e,#3d6028,#4d7632,#567c34
+          theme: github-dark
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
           
       - name: push animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
