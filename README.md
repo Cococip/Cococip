@@ -6,7 +6,7 @@
 <br/>
 
 <!-- ANIMATED TYPING: USING UNIFIED GREEN -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&pause=1000&color=567c34&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Code.+Coffee.+Repeat.;%F0%9F%9A%80+Building+Beyond+Limits;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Slaying+Bugs+Since+Day+1;%F0%9F%8D%B8+Gen-Z+Vibe+Check%3A+Passed" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=26&pause=1000&color=567c34&center=true&vCenter=true&width=800&lines=SUKA+NASI+PADANG+TANPA+RENDANG+DAN+SUKA+KAMU+PASTINYA;MAU+JADI+PROGRAMER+TAPI+NGGA+MAU+NGODING" alt="Typing SVG" />
 
 <br/>
 
