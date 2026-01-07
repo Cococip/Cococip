@@ -1,6 +1,10 @@
 # 👋 Halo, Saya [Nama Anda]!
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Life-long+Learner;Tech+Enthusiast;Creative+Coder" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="github_banner.png" alt="Banner" width="100%">
 </p>
 
