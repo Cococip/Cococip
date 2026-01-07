@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="github_banner.png" alt="Banner" width="100%">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cococip&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Cococip?label=Followers&style=social" alt="Followers" />
 </p>
