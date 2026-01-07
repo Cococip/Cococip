@@ -31,14 +31,14 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> **MY DEV STATS (NO CAP)**
 
-<!-- FIXING STATS VISIBILITY: USING FALLBACK THEME AND SIMPLER URL -->
+<!-- STATS SECTION: STABLE RENDER -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cococip&show_icons=true&theme=dracula&hide_border=true" alt="Main Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cococip&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cococip&show_icons=true&theme=radical" alt="Main Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cococip&layout=compact&theme=radical" alt="Top Langs" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cococip&theme=dracula&hide_border=true" alt="Streak Stats" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cococip&theme=radical" alt="Streak Stats" width="85%" />
 </p>
 
 ---
