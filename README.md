@@ -1,47 +1,57 @@
 <div align="center">
 
-<!-- HEADER: BOLD & AESTHETIC -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=COCOCIP&fontSize=80&animation=twinkling&fontAlignY=35&desc=CREATIVE%20DEVELOPER%20%E2%80%A2%20BUG%20SLAYER&descAlignY=60&descSize=20" width="100%"/>
+<!-- HEADER: HARMONIZED RADICAL PINK -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=250&section=header&text=COCOCIP&fontSize=80&animation=twinkling&fontAlignY=35&desc=CREATIVE%20DEVELOPER%20%E2%80%A2%20BUG%20SLAYER&descAlignY=60&descSize=20" width="100%"/>
 
 <br/>
 
-<!-- ANIMATED TYPING: VIBEY -->
+<!-- ANIMATED TYPING: HARMONIZED COLOR -->
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Code.+Coffee.+Repeat.;%F0%9F%9A%80+Building+Beyond+Limits;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Slaying+Bugs+Since+Day+1;%F0%9F%8D%B8+Gen-Z+Vibe+Check%3A+Passed" alt="Typing SVG" />
 
 <br/>
 
-<!-- SOCIAL BADGES: SLAY -->
+<!-- SOCIAL BADGES: UNIFIED THEME -->
 <p align="center">
-<img src="https://img.shields.io/github/followers/Cococip?label=BESTIES&style=for-the-badge&color=blueviolet&logo=github" />
+<img src="https://img.shields.io/github/followers/Cococip?label=BESTIES&style=for-the-badge&color=F75C7E&logo=github" />
 <img src="https://komarev.com/ghpvc/?username=Cococip&label=VIBE%20CHECK&color=F75C7E&style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-SLAYING-green?style=for-the-badge&logo=heart" />
+<img src="https://img.shields.io/badge/STATUS-SLAYING-F75C7E?style=for-the-badge&logo=heart" />
 </p>
 
 ---
+
+<br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> **STUFF I USE TO CREATE**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,php,framer,nodejs,laravel,supabase,postgres,docker,figma" />
+    <!-- Using skillicons with custom theme to match Radical vibe -->
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,framer,nodejs,laravel,supabase,postgres,docker,figma&theme=dark" />
   </a>
 </p>
 
+<br/>
+
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> **MY DEV STATS**
+<br/>
 
-<!-- STATS SECTION: ENHANCED VISIBILITY -->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> **MY DEV STATS (NO CAP)**
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=radical" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=radical" alt="Repo Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cococip&theme=radical" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cococip&theme=radical&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> **THE COMMIT SNAKE**
 
@@ -51,13 +61,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
+<br/>
+
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="35" /> **CURRENT MOOD**
+<br/>
+
+<!-- FOOTER: MATCHING HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer&text=STAY%20AESTHETIC&fontSize=20&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Stay%20Bold.%20Stay%20Aesthetic.&fontSize=30&animation=fadeIn" width="100%"/>
+  <b>Built with ✨ by Cococip</b>
 </p>
 
-**Built with by Cococip**
 </div>
