@@ -62,15 +62,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Cococip&show_icons=true&theme=radical&hide_border=true&title_color=FF3D71&icon_color=FF3D71&text_color=FFFFFF&bg_color=00000000" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Cococip&show_icons=true&theme=radical&hide_border=true" height="195" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cococip&layout=compact&theme=radical&hide_border=true&title_color=41EAD4&icon_color=41EAD4&text_color=FFFFFF&bg_color=00000000" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cococip&layout=compact&theme=radical&hide_border=true" height="195" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cococip&theme=radical&hide_border=true&stroke=FF3D71&background=00000000&ring=FF3D71&fire=FF3D71&currStreakLabel=FF3D71" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cococip&theme=radical&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
