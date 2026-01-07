@@ -60,7 +60,7 @@
 
 <br/>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> <font color="#567c34">THE MAJESTIC COMMIT SNAKE</font></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> <font color="#567c34">THE MAJESTIC MUNCHER</font></h3>
 
 <div align="center">
   <div style="padding: 15px; border: 2px solid #567c34; border-radius: 15px; background: rgba(86, 124, 52, 0.05); display: inline-block; width: 95%;">
