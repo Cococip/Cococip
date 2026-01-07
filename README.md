@@ -6,7 +6,7 @@
 <br/>
 
 <!-- ANIMATED TYPING: PREMIUM VIBES -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=28&pause=1000&color=567c34&center=true&vCenter=true&width=850&lines=%E2%9C%A8+SUKA+NASI+PADANG+TANPA+RENDANG...;%F0%9F%8C%B8+...DAN+SUKA+KAMU+PASTINYA+;%F0%9F%9A%80+MAU+JADI+PROGRAMMER+PRO;%F0%9F%92%BB+...TAPI+NGGA+MAU+NGODING+(REAL)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=28&pause=1000&color=567c34&center=true&vCenter=true&width=850&lines=%E2%9C%A8+SUKA+NASI+PADANG+TANPA+RENDANG...;%F0%9F%8C%B8+...DAN+SUKA+KAMU+PASTINYA+;%F0%9F%9A%80+MAU+JADI+PROGRAMMER+PRO;%F0%9F%92%BB+...TAPI+NGGA+MAU+NGODING+(REAL)" alt="Typing SVG" />
 
 <br/>
 
