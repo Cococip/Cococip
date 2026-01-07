@@ -25,8 +25,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Using skillicons with custom theme to match Radical vibe -->
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,framer,nodejs,laravel,supabase,postgres,docker,figma&theme=dark" />
+    <!-- Updated to match actual repo tech: PHP, Python, Java, Rust, Nextjs, Tailwind, JS, MySQL, HTML, CSS -->
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,java,rust,nextjs,tailwind,js,mysql,html,css&theme=dark" />
   </a>
 </p>
 
