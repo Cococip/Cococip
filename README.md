@@ -60,13 +60,17 @@
 
 <br/>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> <font color="#567c34">THE COMMIT SNAKE</font></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> <font color="#567c34">THE MAJESTIC COMMIT SNAKE</font></h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<div align="center">
+  <div style="padding: 15px; border: 2px solid #567c34; border-radius: 15px; background: rgba(86, 124, 52, 0.05); display: inline-block; width: 95%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg" width="100%">
+    </picture>
+  </div>
+</div>
 
 <br/>
 
