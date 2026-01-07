@@ -40,8 +40,8 @@
 <p align="center">
   <b><font color="#39D353">GITHUB STATS</font></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#39D353">REPO STATS</font></b>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=vue" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=vue" alt="Repo Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=github_dark" alt="Repo Stats" />
 </p>
 
 <p align="center">
