@@ -1,20 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=567C34&height=220&section=header&text=COCOCIP&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=CREATIVE%20DEVELOPER%20%2F%2F%20FULL%20STACK&descAlignY=61&descSize=17&animation=fadeIn" width="100%"/>
+<!-- ========================= -->
+
+<!-- HEADER -->
+
+<!-- ========================= -->
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=567C34&height=230&section=header&text=COCOCIP&fontSize=78&fontColor=FFFFFF&fontAlignY=38&desc=CREATIVE%20DEVELOPER%20%2F%2F%20FULL%20STACK&descAlignY=61&descSize=17&animation=fadeIn"
+width="100%"
+alt="COCOCIP"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1800&color=567C34&center=true&vCenter=true&width=750&lines=BUILDING+USEFUL+THINGS.;TURNING+IDEAS+INTO+CODE.;FULL+STACK+DEVELOPER.;SOMETIMES+I+JUST+DEBUG+LIFE." alt="Typing SVG"/>
+<!-- ========================= -->
+
+<!-- TYPING -->
+
+<!-- ========================= -->
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1800&color=567C34&center=true&vCenter=true&width=780&lines=BUILDING+USEFUL+THINGS.;TURNING+IDEAS+INTO+CODE.;FULL+STACK+DEVELOPER.;BUILD.+BREAK.+FIX.+REPEAT."
+alt="Typing"
+/>
 
 <br><br>
+
+<!-- ========================= -->
+
+<!-- PROFILE BADGES -->
+
+<!-- ========================= -->
 
 <a href="https://github.com/Cococip">
-<img src="https://img.shields.io/github/followers/Cococip?style=flat-square&label=FOLLOWERS&labelColor=1f2937&color=567C34" alt="GitHub Followers"/>
+  <img
+    src="https://img.shields.io/github/followers/Cococip?style=flat-square&label=FOLLOWERS&labelColor=111827&color=567C34"
+    alt="GitHub Followers"
+  />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Cococip&style=flat-square&label=PROFILE%20VIEWS&color=567C34&labelColor=1f2937" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/Cococip?style=flat-square&label=STARS&labelColor=1f2937&color=567C34" alt="GitHub Stars"/>
+
+ 
+
+<img
+src="https://komarev.com/ghpvc/?username=Cococip&style=flat-square&label=PROFILE%20VIEWS&color=567C34&labelColor=111827"
+alt="Profile Views"
+/>
+
+ 
+
+<img
+src="https://img.shields.io/github/stars/Cococip?style=flat-square&label=STARS&labelColor=111827&color=567C34"
+alt="GitHub Stars"
+/>
 
 <br><br>
 
@@ -22,128 +60,224 @@
 
 ---
 
-## About
+# About Me
 
-```text
-COCOCIP
+Hi, I'm **COCOCIP**.
 
-Creative developer who enjoys building
-web applications, backend systems,
-automation, and occasionally fighting bugs
-that should not exist in the first place.
+I'm a **Full Stack Developer** who enjoys turning ideas into functional products.
+
+I build web applications, business systems, APIs, backend services, and developer tools with a focus on practical solutions, clean architecture, and maintainable code.
+
+I enjoy working across the stack — from designing interfaces to building the backend logic behind them.
 
 Currently focused on:
-→ Full Stack Development
-→ Backend Architecture
-→ Business Systems
-→ API Integration
-→ Open Source Projects
-```
 
-<br>
+* Full Stack Web Development
+* Backend Architecture
+* Business & Management Systems
+* API Integration
+* Automation
+* Open Source Projects
+* Modern Web Technologies
 
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,java,rust,nextjs,tailwind,mysql,postgresql,git,docker,vscode&perline=6" />
-
-</div>
-
-<br>
+> Building things, breaking things, fixing things — then shipping them.
 
 ---
 
-## GitHub Analytics
+# Tech Stack
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=github_dark" width="96%" alt="GitHub Profile Details"/>
+### Languages
+
+<img
+src="https://skillicons.dev/icons?i=php,python,java,rust"
+alt="Programming Languages"
+/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=github_dark" width="47%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cococip&theme=github_dark" width="47%" alt="Most Used Languages"/>
+### Frameworks & Libraries
+
+<img
+src="https://skillicons.dev/icons?i=laravel,nextjs,react,tailwind"
+alt="Frameworks"
+/>
+
+<br><br>
+
+### Database & Infrastructure
+
+<img
+src="https://skillicons.dev/icons?i=mysql,postgresql,docker,rabbitmq"
+alt="Database and Infrastructure"
+/>
+
+<br><br>
+
+### Tools
+
+<img
+src="https://skillicons.dev/icons?i=git,github,vscode,linux"
+alt="Development Tools"
+/>
 
 </div>
 
-<br>
-
 ---
 
-## Contribution Activity
+# GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cococip&bg_color=0D1117&color=FFFFFF&line=567C34&point=FFFFFF&area=true&hide_border=true&radius=8" width="96%" alt="GitHub Activity Graph"/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=github_dark"
+width="96%"
+alt="GitHub Profile Details"
+/>
+
+<br><br>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=github_dark"
+width="47%"
+alt="GitHub Statistics"
+/>
+
+ 
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cococip&theme=github_dark"
+width="47%"
+alt="Most Used Languages"
+/>
 
 </div>
 
-<br>
+---
+
+# Currently
+
+```text
+BUILDING   → Web applications & business systems
+
+LEARNING   → Better architecture & modern technologies
+
+EXPLORING  → Backend, automation & integrations
+
+CREATING   → Useful tools and open-source projects
+
+SHIPPING   → Ideas into real products
+```
 
 ---
 
-## Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/Cococip/Cococip/output/github-contribution-grid-snake.svg"
+ alt="GitHub Contribution Snake"
+ width="96%"
+/> </picture>
 
 </div>
 
-<br>
+---
+
+# GitHub Contributions
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Cococip&theme=dark&hide_border=true&ring=567C34&fire=567C34&currStreakLabel=567C34"
+width="70%"
+alt="GitHub Contribution Streak"
+/>
+
+</div>
 
 ---
 
-## Current Focus
+# What I Build
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
 
-### FULL STACK
+<td width="50%" valign="top">
 
-Building scalable web applications with modern frontend and backend technologies.
+### Web Applications
 
-</td>
-
-<td width="33%" align="center">
-
-### SYSTEMS
-
-Creating practical business systems that solve real-world problems.
+Business applications, dashboards, management systems, SaaS products, and custom web platforms.
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### OPEN SOURCE
+### Backend Systems
 
-Sharing useful projects, experiments, and source code with developers.
+REST APIs, authentication systems, integrations, queues, background workers, and backend services.
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Business Solutions
+
+POS, finance, HRIS, inventory, CRM, ERP, reporting, and other systems designed around real business workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Open Source
+
+Sharing source code, experiments, utilities, and projects that can help other developers build faster.
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
 
-<br>
-
 ---
 
-## Connect
+# Connect
 
 <div align="center">
 
 <a href="https://github.com/Cococip">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://instagram.com/Cococip">
+  <img
+    src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
 </a>
 
 <br><br>
@@ -154,4 +288,14 @@ Sharing useful projects, experiments, and source code with developers.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=567C34&height=100&section=footer" width="100%"/>
+<!-- ========================= -->
+
+<!-- FOOTER -->
+
+<!-- ========================= -->
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=567C34&height=100&section=footer"
+width="100%"
+alt="Footer"
+/>
