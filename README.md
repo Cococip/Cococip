@@ -36,18 +36,7 @@ I enjoy turning ideas into practical products with clean architecture, maintaina
 
 ---
 
-## GitHub
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cococip&theme=github_dark" width="100%" alt="GitHub Profile Details">
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cococip&theme=github_dark" width="49%" alt="GitHub Statistics">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cococip&theme=github_dark" width="49%" alt="Most Used Languages">
-
-</div>
 
 ---
 
